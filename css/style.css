@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: turquoise;
+}
+.container {
+    width: 900px;
+    margin: auto;
+    background: #474bd2;
+    padding: 30px;
+}
+h1{
+    margin: 0;
+    color: #a9a4a4;
+    font-size: 90px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    line-height: 2;
+}
+img{
+    max-width: 100%;
+    margin-top: 26px;
+}
+div{}
+.banner{
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+strong 
+{color: greenyellow;}
+span {color: turquoise;}
